@@ -1,19 +1,10 @@
-# **Example README File**
+# **Custom Crosshair**
 
-## **Project Title**
+![Creds: Metami septiana on flaticon]
 
-Project Title is a description of the project and its purpose.
-
-## **Introduction**
-
-Project Title is a project that does something useful. It was created to solve a particular problem, and it provides a solution that is better than the alternatives.
+an application that allows you to import a custom image to use as a crosshair, made with **Python** and will recieve updates (such as resizing etc.) in the future.
 
 ## **Installation**
 
-To install Project Title, follow these steps:
-
-1. Clone the repository: **`git clone https://github.com/username/project-title.git`**
-2. Navigate to the project directory: **`cd project-title`**
-3. Install dependencies: **`npm install`**
-4. Build the project: **`npm run build`**
-5. Start the project: **`npm start`**
+To install it:
+1. Get the latest `.exe` file from the 

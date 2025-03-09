@@ -7,4 +7,6 @@ an application that allows you to import a custom image to use as a crosshair, m
 ## **Installation**
 
 To install it:
-1. Get the latest `.exe` file from the 
+1. Get the latest `.exe` file from the `Releases` tab.
+2. Run the `.exe` file.
+3. Windows Defender will flag it as a **threat**, but I will link the VirusTotal (once I've done it)

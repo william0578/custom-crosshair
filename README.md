@@ -11,7 +11,7 @@ To install it:
 2. Run the `.exe` file.
 3. Windows Defender will flag it as a **threat**, but I will link the VirusTotal (once I've done it)
 
-## **Usage/Guide
+## **Usage/Guide**
 
 To use the app it will pop up above all other windows.
 You can hide the bar that has the **"Image Selector"** the **"Lock (🔒)"** and the **"Close (❌)"** using `Ctrl + Shift = C`
@@ -28,7 +28,7 @@ I do not care what you do with this and have added the python file in the files.
 
 If you prefer to run it without a `.exe` file, I will put instruction's below:
 
-## **Run with Python
+## **Run with Python**
 
 1. Enter: `pip install PyQt6` into the **Terminal** to install the required packages.
 2. Download the `custom-crosshair.py` from the `Releases` tab.

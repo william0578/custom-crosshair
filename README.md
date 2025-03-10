@@ -14,13 +14,15 @@ To install it:
 ## **Usage/Guide**
 
 To use the app it will pop up above all other windows.
-You can hide the bar that has the **"Image Selector"** the **"Lock (🔒)"** and the **"Close (❌)"** using `Ctrl + Shift = C`
+You can hide the bar that has the **"Image Selector"** the **"Lock (🔒)"**, the **"Close (❌)"** and the **"Recenter (🔄️)"** using `Ctrl + Shift + C`
 
 The **"Image Selector"** allows you to select any **Image File** as a crosshair. It will auto-center when selected.
 
 The **"Lock (🔒)"** allows you to freeze the selected crosshair in it's current location on your screen.
 
 The **"Close (❌)""** closes the application, and is the only way to close it (apart from `Task Manager`) as it does not show up in the **system tray**.
+
+The **"Recenter (🔄️)"** recenters the application to the center of the screen.
 
 You can drag on any of the buttons shown above to move the crosshair around (or the actual image once imported).
 
